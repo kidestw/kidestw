@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kidestw
-- 👀 I’m interested in 
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cloud Computing
+- 🌱 I’m currently Azure trainee at Nedamco Academy
+- 💞️ I’m looking to collaborate on Related cloud projects that can enhance my skills
 - 📫 want to reach?  mailto kidestworku2321@gmail.com
 
 <!---
